@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+README.Rmd
+
+
+/Data
+/GIS
+/_documents
+/_manuscript
+
+/_presentations
+/src/
